@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+-->
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... Front-End Development.
 - 👯 I’m looking to collaborate on ... 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://www.imjavierpalma.xyz
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I love collage art!!! 
--->
+
