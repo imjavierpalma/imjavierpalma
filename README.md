@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... with developers around the world.
 - 🤔 I’m looking for help with ... everthing about starting in tech.
 - 💬 Ask me about ... anything.
-- 😄 Pronouns: ... Whatever you want.
+- 😄 Pronouns: ... He/Him.
 - 📫 How to reach me: ... here's my [Website](https://www.imjavierpalma.xyz)
 - ⚡ Fun fact: ... I'm also an editorial illustrator, graphic designer, and collage artist.
 - :+1: Social Media: [Instagram](https://instagram.com/imjavierpalma)
