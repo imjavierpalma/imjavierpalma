@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Front-End Development.
 - 👯 I’m looking to collaborate on ... with developers around the world.
 - 🤔 I’m looking for help with ... everthing about starting in tech.
-- 💬 Ask me about ... Anything.
-- 📫 How to reach me: ... https://www.imjavierpalma.xyz
+- 💬 Ask me about ... anything.
+- 📫 How to reach me: ... [Website](https://www.imjavierpalma.xyz)
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I love collage art!!! 
-- :+1:Social Media: [Instagram](https://instagram.com/imjavierpalma)
+- :+1: Social Media: [Instagram](https://instagram.com/imjavierpalma)
                     [Vimeo](https://vimeo.com/imjavierpalma)
                     [LinkedIn](https://www.linkedin.com/in/imjavierpalma)
               
