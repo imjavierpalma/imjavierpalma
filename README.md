@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything.
 - 😄 Pronouns: ... He/Him.
 - 📫 How to reach me: ... here's my [Website](https://www.javierpalma.co)
-- ⚡ Fun fact: ... I'm also an editorial illustrator, graphic designer, and collage artist.
+- ⚡ Fun fact: ... I'm also an editorial illustrator, visual designer, and collage artist.
 - :+1: Social Media: [Instagram](https://instagram.com/imjavierpalma)
                     [Vimeo](https://vimeo.com/imjavierpalma)
                     [LinkedIn](https://www.linkedin.com/in/imjavierpalma)
