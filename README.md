@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+Javier Palma is a tech enthusiast and an [AWS Certified Cloud Practitioner] (https://www.credly.com/earner/earned/badge/9b9062b3-4426-4394-a8f5-2c4041b9eef6) with core expertise in Cloud Computing. Additionally, he's training to be an IT and DevOps Engineer.
+
 - 🔭 I’m currently working on ... building my portfolio and trying to connect with new people.
 - 🌱 I’m currently learning ... Cloud Computing, AWS, and SRE.
 - 👯 I’m looking to collaborate on ... with developers, designers, and artists around the world.
