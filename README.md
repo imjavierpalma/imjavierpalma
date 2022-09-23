@@ -19,6 +19,12 @@ Javier Palma is a tech enthusiast and an [AWS Certified Cloud Practitioner](http
                     [Vimeo](https://vimeo.com/imjavierpalma)
                     [LinkedIn](https://www.linkedin.com/in/imjavierpalma)
 
+Software and Tools:
+
+- Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, Dropbox.
+- Git, GitHub, Linux (Arch), VS Code, PyCharm.
+- AWS, Terraform, Python, Kubernetes, Docker.
+
 Here are some articles to get started in DevOps:
 - ["How I became a DevOps Engineer in 4 months"](https://medium.com/@a.abukar/how-i-became-a-devops-engineer-in-4-months-68ab10ef3084) by Abdurahman Abukar.
 - ["What Is DevOps: How To Build An Efficient DevOps Team"](https://www.bretfisher.com/what-is-devops/) by Bret Fisher.
