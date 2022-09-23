@@ -18,4 +18,7 @@ Javier Palma is a tech enthusiast and an [AWS Certified Cloud Practitioner](http
 - :+1: Social Media: [Instagram](https://instagram.com/imjavierpalma)
                     [Vimeo](https://vimeo.com/imjavierpalma)
                     [LinkedIn](https://www.linkedin.com/in/imjavierpalma)
-              
+
+Here are some articles to get started in DevOps:
+- ["How I became a DevOps Engineer in 4 months" by Abdurahman Abukar](https://medium.com/@a.abukar/how-i-became-a-devops-engineer-in-4-months-68ab10ef3084)
+- ["What Is DevOps: How To Build An Efficient DevOps Team" by Bret Fisher](https://www.bretfisher.com/what-is-devops/)
