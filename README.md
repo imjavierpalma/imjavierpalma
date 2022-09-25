@@ -13,7 +13,7 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
 - 👯 I’m looking to collaborate with developers, designers, and artists around the world.
 - 🤔 I’m looking for help with everything about starting in Tech.
 - 💬 Ask me anything.
-- 📫 Reach me through my website [javierpalma.co](https://www.javierpalma.co)
+- 📫 Reach me:[javierpalma.co](https://www.javierpalma.co)
 - ⚡ Fun fact: I'm also a Photo Illustrator, Collage Artist, and Graphic Designer.
 - :+1: Social Media: [Instagram](https://instagram.com/imjavierpalma)
                     [Vimeo](https://vimeo.com/imjavierpalma)
