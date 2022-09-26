@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/9b9062b3-4426-4394-a8f5-2c4041b9eef6) with core expertise in Cloud Computing. Additionally, I'm training to be an SRE Engineer focusing on DevOps.
+I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/9b9062b3-4426-4394-a8f5-2c4041b9eef6) with core expertise in Cloud Computing. Additionally, I'm training to be a DevOps Engineer focusing on cross-team collaboration and measured improvement in the software delivery process.
 
 - 🔭 I’m currently working on building my portfolio, creating projects, and trying to connect with new people.
 - 🌱 I’m currently learning AWS, Linux, Docker, Terraform, and Kubernetes. Also, I'm preparing for my AWS DevOps Professional and Terraform Associate Certifications.
