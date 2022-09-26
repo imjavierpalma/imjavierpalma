@@ -11,7 +11,7 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
 - 🔭 I’m currently working on building my portfolio, creating projects, and trying to connect with new people.
 - 🌱 I’m currently learning AWS, Linux, Docker, Terraform, and Kubernetes. Also, I'm preparing for my AWS DevOps Professional and Terraform Associate Certifications.
 - 👯 I’m looking to collaborate with developers, designers, and artists around the world.
-- 🤔 I’m looking for help with everything about starting in Tech.
+- 🤔 I’m looking for help with everything about starting in the tech industry.
 - 💬 Ask me anything.
 - 📫 Reach me: [javierpalma.co](https://www.javierpalma.co)
 - ⚡ Fun fact: I'm also a Photo Illustrator, Collage Artist, and Graphic Designer.
