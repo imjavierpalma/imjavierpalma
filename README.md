@@ -23,7 +23,7 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
 Software and Tools:
 
 - Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, Dropbox.
-- Git, GitHub, Linux, VS Code, PyCharm.
+- Git, GitHub, Linux, VS Code, PyCharm, VIM, Bash, PowerShell.
 - AWS, Terraform, Python, Kubernetes, Docker.
 
 Here are some articles to get started in DevOps:
