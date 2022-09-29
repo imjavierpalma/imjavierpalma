@@ -15,9 +15,10 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
 - 💬 Ask me anything.
 - 📫 Reach me: [javierpalma.co](https://www.javierpalma.co)
 - ⚡ Fun fact: I'm also a Photo Illustrator, Collage Artist, and Graphic Designer.
-- :+1: Social Media: [Instagram](https://instagram.com/imjavierpalma)
-                    [Vimeo](https://vimeo.com/imjavierpalma)
-                    [LinkedIn](https://www.linkedin.com/in/imjavierpalma)
+- :+1: Social Media: 
+        - [Instagram](https://instagram.com/imjavierpalma)
+        - [Vimeo](https://vimeo.com/imjavierpalma)
+        - [LinkedIn](https://www.linkedin.com/in/imjavierpalma)
 
 Software and Tools:
 
