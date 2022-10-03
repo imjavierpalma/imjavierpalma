@@ -24,7 +24,7 @@ Software and Tools:
 
 - Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, Dropbox.
 - Git, GitHub, Linux, VS Code, PyCharm, VIM, Bash, PowerShell.
-- AWS, Terraform, Python, Kubernetes, Docker.
+- AWS, Terraform, Python, Kubernetes, Docker, Ansible.
 
 Here are some articles to get started in DevOps:
 - ["How I became a DevOps Engineer in 4 months"](https://medium.com/@a.abukar/how-i-became-a-devops-engineer-in-4-months-68ab10ef3084) by Abdurahman Abukar.
