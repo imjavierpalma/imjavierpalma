@@ -28,7 +28,7 @@ Concepts and Structure:
 Software and Tools:
 
 - Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, Dropbox.
-- Git, GitHub, GitHub Actions, Linux, VS Code, PyCharm, VIM, Bash, PowerShell.
+- Git, GitHub, GitHub Actions, Linux, VS Code, VIM, Bash, PowerShell.
 - AWS, Terraform, Python, Kubernetes, Docker, Ansible.
 
 Here are some articles to get started in DevOps:
