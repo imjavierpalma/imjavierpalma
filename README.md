@@ -31,7 +31,7 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
 - Git, GitHub, GitHub Actions, Linux, VS Code, VIM, Bash, and PowerShell.
 - AWS, Terraform, Python, Kubernetes, Docker, Ansible, and Nginx.
 
-Here are some articles to get started in DevOps:
+### Here are some articles to get started in DevOps:
 - ["How I became a DevOps Engineer in 4 months"](https://medium.com/@a.abukar/how-i-became-a-devops-engineer-in-4-months-68ab10ef3084) by Abdurahman Abukar.
 - ["What Is DevOps: How To Build An Efficient DevOps Team"](https://www.bretfisher.com/what-is-devops/) by Bret Fisher.
 - ["Learning Path for DevOps"](https://medium.com/@satya.kumar/learning-path-for-devops-c6e66e5f1f01) by Satya Kumar.
