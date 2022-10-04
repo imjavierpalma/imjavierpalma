@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/9b9062b3-4426-4394-a8f5-2c4041b9eef6) with core expertise in Cloud Computing. Additionally, I'm training to be a Cloud Engineer focusing on DevOps.
 
 - 🔭 I’m currently working on building my portfolio, creating projects, and trying to connect with new people.
-- 🌱 I’m currently learning AWS, Linux, Python, Docker, Terraform, GitHub Actions, and Kubernetes. Also, I'm preparing for my AWS DevOps Professional, Linux LPIC-1, and Terraform Associate Certifications.
-- 👯 I’m looking to collaborate with developers, designers, and artists around the world.
+- 🌱 I’m currently preparing for my AWS DevOps Professional, Linux LPIC-1, and Terraform Associate Certifications.
+- 👯 I’m looking to collaborate with developers, software engineers, designers, and artists around the world.
 - 🤔 I’m looking for help with everything about starting in the tech industry.
 - 💬 Ask me anything.
 - 📫 Reach me: [javierpalma.co](https://www.javierpalma.co)
@@ -20,10 +20,15 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
         - [Vimeo](https://vimeo.com/imjavierpalma)
         - [LinkedIn](https://www.linkedin.com/in/imjavierpalma)
 
+Concepts and Structure:
+
+- Infrastructure as Code, Configuration Management, Infrastructure and Application Monitoring, Logs Management, Containerization and Orchestration.
+- Scripting, Operating Systems, Web Servers, Networking and Security, Cloud Computing, Cloud Design Patterns, CI/CD, and Version Control.
+
 Software and Tools:
 
 - Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, Dropbox.
-- Git, GitHub, Linux, VS Code, PyCharm, VIM, Bash, PowerShell.
+- Git, GitHub, GitHub Actions, Linux, VS Code, PyCharm, VIM, Bash, PowerShell.
 - AWS, Terraform, Python, Kubernetes, Docker, Ansible.
 
 Here are some articles to get started in DevOps:
