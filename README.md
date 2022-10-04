@@ -20,12 +20,12 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
         - [Vimeo](https://vimeo.com/imjavierpalma)
         - [LinkedIn](https://www.linkedin.com/in/imjavierpalma)
 
-## Concept Structure and Skills:
+# Concept Structure and Skills:
 
 - Infrastructure as Code, Configuration Management, Infrastructure and Application Monitoring, Logs Management, Containerization and Orchestration.
 - Scripting, Operating Systems, Web Servers, Networking and Security, Cloud Computing, Cloud Design Patterns, CI/CD, and Version Control.
 
-## Software:
+# Software:
 
 - Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, and Dropbox.
 - Git, GitHub, GitHub Actions, Linux, VS Code, VIM, Bash, and PowerShell.
