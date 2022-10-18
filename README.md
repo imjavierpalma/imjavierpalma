@@ -23,7 +23,7 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
 
 - Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, and Dropbox.
 - Git, GitHub, GitHub Actions, Linux, VS Code, VIM, Bash, and PowerShell.
-- AWS, Digital Ocean, Terraform, Python, Kubernetes, Packer, Docker, Ansible, MongoDB, and Nginx.
+- AWS, Digital Ocean, Terraform, Apache, Python, Kubernetes, Packer, Docker, Ansible, MongoDB, and Nginx.
 
 ### Here are some articles to get started in DevOps for Cloud Engineers:
 
