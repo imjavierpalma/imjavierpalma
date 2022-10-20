@@ -23,7 +23,7 @@ I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/b
 - Git, GitHub, GitHub Actions, Linux, VS Code, VIM, Bash, and PowerShell.
 - AWS, Digital Ocean, Terraform, Apache, Python, Kubernetes, Packer, Docker, Ansible, MongoDB, and Nginx.
 
-### :tada: Here are some articles to get started in DevOps Practices for Cloud Engineers:
+### :tada: Here are some articles to get started in DevOps for Cloud Engineers:
 
 - ["How I became a DevOps Engineer in 4 months"](https://medium.com/@a.abukar/how-i-became-a-devops-engineer-in-4-months-68ab10ef3084) by Abdurahman Abukar.
 - ["What Is DevOps: How To Build An Efficient DevOps Team"](https://www.bretfisher.com/what-is-devops/) by Bret Fisher.
