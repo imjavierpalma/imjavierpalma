@@ -1,7 +1,6 @@
 # Hello! 👋
 
-I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/9b9062b3-4426-4394-a8f5-2c4041b9eef6) with core expertise in Cloud Computing. Additionally, I'm training to be a Cloud Engineer focusing on DevOps.
-
+I'm Javier Palma is an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/9b9062b3-4426-4394-a8f5-2c4041b9eef6) with core expertise in Cloud Computing. Additionally, I'm training to be a Cloud Engineer with the ability to design, build, and manage cloud infrastructure and adopt DevOps practices.
 - :notebook_with_decorative_cover: I’m currently working on building my portfolio, creating projects, and trying to connect with new people.
 - 🌱 I’m currently preparing for my AWS DevOps Professional, Linux LPIC-1, and Terraform Associate Certifications.
 - :beer: I’m looking to collaborate with developers and software engineers around the world.
@@ -13,7 +12,7 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
         - [Vimeo](https://vimeo.com/imjavierpalma)
         - [LinkedIn](https://www.linkedin.com/in/imjavierpalma)
 
-### :book: I'm building my knowledge with:
+### :book: I'm building my knowledge and skills with:
 
 - Infrastructure as Code, Configuration Management, Infrastructure and Application Monitoring, Logs Management, Containerization and Orchestration.
 - Scripting, Operating Systems, Web Servers, Networking and Security, Cloud Computing, Cloud Design Patterns, CI/CD, and Version Control.
@@ -24,10 +23,12 @@ I'm Javier Palma a tech enthusiast and an [AWS Certified Cloud Practitioner](htt
 - Git, GitHub, GitHub Actions, Linux, VS Code, VIM, Bash, and PowerShell.
 - AWS, Digital Ocean, Terraform, Apache, Python, Kubernetes, Packer, Docker, Ansible, MongoDB, and Nginx.
 
-### :tada: Here are some articles to get started in DevOps for Cloud Engineers:
+### :tada: Here are some articles to get started in DevOps Practices for Cloud Engineers:
 
 - ["How I became a DevOps Engineer in 4 months"](https://medium.com/@a.abukar/how-i-became-a-devops-engineer-in-4-months-68ab10ef3084) by Abdurahman Abukar.
 - ["What Is DevOps: How To Build An Efficient DevOps Team"](https://www.bretfisher.com/what-is-devops/) by Bret Fisher.
+- ["6 strategic ways to level up your CI/CD pipeline"](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/) by Damian Brady.
+- ["Cloud Engineer Vs DevOps Engineer: Overview, Similarities & Differences"](https://kodekloud.com/blog/cloud-engineer-vs-devops-engineer/) by Paul Andrew Arboleda.
 - ["Learning Path for DevOps"](https://medium.com/@satya.kumar/learning-path-for-devops-c6e66e5f1f01) by Satya Kumar.
 
 ### :chart_with_upwards_trend: GitHub Stats:
