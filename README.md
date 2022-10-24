@@ -17,11 +17,17 @@ I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/b
 - Infrastructure as Code, Configuration Management, Infrastructure and Application Monitoring, Logs Management, Containerization and Orchestration.
 - Scripting, Operating Systems, Web Servers, Networking and Security, Cloud Computing, Cloud Design Patterns, CI/CD, and Version Control.
 
-### :computer: Software and tools that I'm currently working on:
+### :computer: Software and tools that I'm currently learning and working on:
 
 - Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, and Dropbox.
-- Git, GitHub, GitHub Actions, Linux, VS Code, VIM, Bash, and PowerShell.
-- AWS, Digital Ocean, Terraform, Apache, Python, Kubernetes, Packer, Docker, Ansible, Vault, MongoDB, and Nginx.
+- Git, GitHub, and GitHub Actions.
+- Linux and Bash.
+- Windows and PowerShell.
+- VS Code and VIM.
+- AWS, Digital Ocean, Hashicorp Cloud, and Linode.
+- Terraform, Kubernetes, Packer, Docker, Ansible, and Vault.
+- Apache and Nginx.
+- Python and MongoDB.
 
 ### :tada: Here are some articles to get started in DevOps for Cloud Engineers:
 
