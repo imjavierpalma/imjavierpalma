@@ -21,7 +21,7 @@ I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/b
 
 - Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, and Dropbox.
 - Git, GitHub, GitHub Actions, Linux, VS Code, VIM, Bash, and PowerShell.
-- AWS, Digital Ocean, Terraform, Apache, Python, Kubernetes, Packer, Docker, Ansible, MongoDB, and Nginx.
+- AWS, Digital Ocean, Terraform, Apache, Python, Kubernetes, Packer, Docker, Ansible, Vault, MongoDB, and Nginx.
 
 ### :tada: Here are some articles to get started in DevOps for Cloud Engineers:
 
