@@ -22,7 +22,6 @@ I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/b
 - Adobe Creative Cloud, Slack, Google Workspace, Microsoft 365, Notion, Proton, and Dropbox.
 - Git, GitHub, and GitHub Actions.
 - Linux and Bash.
-- Windows and PowerShell.
 - VS Code and VIM.
 - AWS, Digital Ocean, Hashicorp Cloud, and Linode.
 - Terraform, Kubernetes, Packer, Docker, Ansible, and Vault.
