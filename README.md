@@ -4,10 +4,8 @@ I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/b
 - :notebook_with_decorative_cover: I’m currently working on building my portfolio, creating projects, and trying to connect with new people.
 <<<<<<< HEAD
 - 💬 Ask me anything.
-=======
 - :beer: I’m looking to collaborate with developers and software engineers around the world.
 - 💬 Ask me anything: hello@javierpalma.co
->>>>>>> refs/remotes/origin/main
 - :newspaper: Website: [javierpalma.co](https://www.javierpalma.co)
 - :art: Fun fact: I'm also a Collage Artist and Graphic Designer.
 - :wave: Social Media: 
