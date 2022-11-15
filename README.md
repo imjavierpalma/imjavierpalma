@@ -2,7 +2,12 @@
 
 I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/9b9062b3-4426-4394-a8f5-2c4041b9eef6) with core expertise in Cloud Computing. Additionally, I'm training and building my Cloud Engineering skills with the ability to design, build, and manage cloud infrastructure and adopt DevOps practices.
 - :notebook_with_decorative_cover: I’m currently working on building my portfolio, creating projects, and trying to connect with new people.
+<<<<<<< HEAD
 - 💬 Ask me anything.
+=======
+- :beer: I’m looking to collaborate with developers and software engineers around the world.
+- 💬 Ask me anything: hello@javierpalma.co
+>>>>>>> refs/remotes/origin/main
 - :newspaper: Website: [javierpalma.co](https://www.javierpalma.co)
 - :art: Fun fact: I'm also a Collage Artist and Graphic Designer.
 - :wave: Social Media: 
@@ -12,8 +17,8 @@ I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/b
 
 ### :book: I'm building my knowledge and skills with:
 
-- Infrastructure as Code, Configuration Management, Infrastructure and Application Monitoring, Logs Management, Containerization and Orchestration.
-- Scripting, Operating Systems, Web Servers, Networking and Security, Cloud Computing, Cloud Design Patterns, CI/CD, and Version Control.
+- Infrastructure as Code, Configuration Management, Application Monitoring, Logs Management, Containerization, and Orchestration.
+- Scripting, Operating Systems, Web Servers, Networking, Infrastructure Monitoring, Cloud Computing, Cloud Design Patterns, CI/CD, and Version Control.
 
 ### :computer: Software and tools that I'm currently learning and working on:
 
@@ -21,7 +26,7 @@ I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/b
 - Git, GitHub, and GitHub Actions.
 - Linux.
 - VS Code and VIM.
-- AWS, Digital Ocean, Hashicorp Cloud, and Linode.
+- AWS, Digital Ocean, and Linode.
 - Terraform, Kubernetes, Packer, Docker, Ansible, and Vault.
 - Apache and Nginx.
 - Python and Bash.
