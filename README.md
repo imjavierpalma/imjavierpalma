@@ -1,4 +1,4 @@
-# Hello, I'm Javier! 👋
+# Hello! 👋
 
 I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/9b9062b3-4426-4394-a8f5-2c4041b9eef6) with core expertise in Cloud Computing. Additionally, I'm training and building my Cloud Engineering skills with the ability to design, build, and manage cloud infrastructure and adopt DevOps practices.
 - :notebook_with_decorative_cover: I’m currently working on building my portfolio, creating projects, and trying to connect with new people.
