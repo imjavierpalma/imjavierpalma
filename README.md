@@ -5,7 +5,7 @@ I'm an [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/b
 - :beer: I’m looking to collaborate with developers and software engineers around the world.
 - 💬 Ask me anything: hello@javierpalma.co
 - :newspaper: Website: [javierpalma.co](https://www.javierpalma.co)
-- :art: Fun fact: I'm also a Collage Artist and Graphic Designer.
+- :art: Fun fact: I'm also a Collage Artist and Editorial Designer.
 - :wave: Social Media: 
         - [Instagram](https://instagram.com/imjavierpalma)
         - [Vimeo](https://vimeo.com/imjavierpalma)
